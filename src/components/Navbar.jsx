@@ -25,25 +25,25 @@ const Navbar = ({ menuOpen, setMenuOpen }) => {
               href="#home"
               className="text-gray-300 hove:text-white transition-colors"
             >
-              Home
+              Inicio
             </a>
             <a
               href="#about"
               className="text-gray-300 hove:text-white transition-colors"
             >
-              About
+              Nosotros
             </a>
             <a
               href="#projects"
               className="text-gray-300 hove:text-white transition-colors"
             >
-              Projects
+              Proyectos
             </a>
             <a
               href="#contact"
               className="text-gray-300 hove:text-white transition-colors"
             >
-              Contact
+              Contacto
             </a>
           </div>
         </div>

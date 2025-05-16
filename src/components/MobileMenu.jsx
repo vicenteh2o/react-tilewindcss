@@ -31,7 +31,7 @@ const MobileMenu = ({ menuOpen, setMenuOpen }) => {
                     }
             `}
       >
-        Home
+        Inicio
       </a>
       <a
         href="#about"
@@ -44,7 +44,7 @@ const MobileMenu = ({ menuOpen, setMenuOpen }) => {
                     }
             `}
       >
-        About
+        Nosotros
       </a>
       <a
         href="#projects"
@@ -57,7 +57,7 @@ const MobileMenu = ({ menuOpen, setMenuOpen }) => {
                     }
             `}
       >
-        Projects
+        Proyectos
       </a>
       <a
         href="#contact"
@@ -70,7 +70,7 @@ const MobileMenu = ({ menuOpen, setMenuOpen }) => {
                     }
             `}
       >
-        Contact
+        Contacto
       </a>
     </div>
   );
